@@ -1,4 +1,4 @@
-# Aud_to_Mp3
+# aud to mp3
 本项目（？）可以将微信语音格式.aud批量转化为.mp3格式<br><br>
 **本项目需要ffmpeg，您需要将ffmpeg.exe放入src文件夹中，ffmpeg是开源免费的，网上下载即可 https://ffmpeg.org/download.html**<br><br>
 使用方法：<br>
